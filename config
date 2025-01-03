@@ -1,0 +1,9 @@
+macos-titlebar-style = hidden
+window-decoration = false
+font-family = "Operator Mono Lig"
+
+keybind = cmd+shift+.=reload_config
+keybind = alt+enter=toggle_fullscreen
+
+config-file = "?theme"
+config-file = "?keymap"
